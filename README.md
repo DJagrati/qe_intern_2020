@@ -2,6 +2,7 @@ some more change
 test
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Rashika
 Priya
 =======
@@ -11,6 +12,11 @@ Priya
 =======
 =======
 >>>>>>> 0bc9b8fbf401fda8411bb7ecee80b52691c70f7e
+=======
+Devashish
+Rashika
+=======
+>>>>>>> 7f8e8743ff5caf891fd80659d5dce5c4cc141101
 
 
 
@@ -25,29 +31,36 @@ Rashika
 Devashish
 Rashika
 
+>>>>>>> 68ffd5cbabaf62123d3af7da08ffda8f6a06dbc2
 Mayank
-
-
 
 Anshul
-
-
-
 Rashika
-
-
-
 Rashika
 Mayank
 
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 vishal
 =======
 Ankur
 >>>>>>> 68ffd5cbabaf62123d3af7da08ffda8f6a06dbc2
+>>>>>>> 0bc9b8fbf401fda8411bb7ecee80b52691c70f7e
+
+Digbijay
+
+Ankur
 
 
+<<<<<<< HEAD
+=======
 
+Digbijay
+
+yash
+PIYUSH
+=======
 
 Digbijay
 <<<<<<< HEAD
