@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-=======
+
+
 some more change
 test
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -19,15 +20,21 @@ Rashika
 =======
 <<<<<<< HEAD
 =======
+=======
 
+Devashish
+Rashika
+>>>>>>> 18c97ec92676fc8277febe26b23e3b08414135ce
+
+
+
+CHELSEA FOOTBALL CLUB 
 
 
 
 >>>>>>> 0bc9b8fbf401fda8411bb7ecee80b52691c70f7e
 
-Anshul
 
-Rashika
 
 
 <<<<<<< HEAD
@@ -105,6 +112,7 @@ PIYUSH
 Digbijay
 
 
+<<<<<<< HEAD
 yash
 
 yash
@@ -117,3 +125,6 @@ yash
 =======
 >>>>>>> 212e2a9677a3d954d7685b00e5b98e31fea5643f
 >>>>>>> d4d375533869583067ffb56d3a84ad0616d3d313
+=======
+dilpreet
+>>>>>>> 18c97ec92676fc8277febe26b23e3b08414135ce
