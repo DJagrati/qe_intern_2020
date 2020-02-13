@@ -1,61 +1,52 @@
 some more change
 test
 
-<<<<<<< HEAD
-dilpreet
-Mayank
-Anshul
-=======
->>>>>>> 70d5a70749d5df9b66f49e235ae11e48cf5b940c
-
-
-
-
-Anshul
-
-Rashika
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 70d5a70749d5df9b66f49e235ae11e48cf5b940c
 Devashish
 Rashika
 
+
+<<<<<<< HEAD
+dilpreet
 Mayank
+Anshul
+
+
 
 
 
 Anshul
 
-
-
 Rashika
 
 
 
+Anshul
 
 Rashika
 dilpreet
 Mayank
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 dilpreet
 
 Digbijay
 
 yash
 dilpreet
-
 
 vishal
 
 Ankur
 
 
+Digbijay
 
+Ankur
+
+
+Digbijay
+
+yash
+PIYUSH
 
 
 Digbijay
@@ -67,5 +58,8 @@ dilpreet
 yash
 
 yash
+
+
+dilpreet
 
 dilpreet
