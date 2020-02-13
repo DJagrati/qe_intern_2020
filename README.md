@@ -103,7 +103,7 @@ Digbijay
 yash
 
 yash
-<<<<<<< HEAD
+
 dilpreet
 
 dilpreet
