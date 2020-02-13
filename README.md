@@ -1,9 +1,6 @@
 some more change
 test
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
 
 Mayank
 
@@ -21,3 +18,4 @@ Rashika
 Mayank
 
 Digbijay
+Utkarsh 
