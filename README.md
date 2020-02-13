@@ -2,29 +2,34 @@ some more change
 test
 
 Jagrati K  
-Rashika
+
 
 
 some more change
 test
 Gaurav
 Anshul
-Rashika
+Rashika you haver been deleted
 Priya
 harshit
 Devashish
-Rashika
+
 Devashish
-Rashika
+
 harshitharshit
 CHELSEA FOOTBALL CLUB 
 
 
 Devashish
-Rashika
 
 
 
+
+
+
+
+
+Devashish
 
 
 
@@ -32,14 +37,8 @@ Anshul
 Devashish
 Mayank
 Anshul
+
 Rashika
-Mayank
-
-Digbijay
-Utkarsh 
-yash
-
-
 Digbijay
 vishal
 vishal 
@@ -72,4 +71,5 @@ yash
 
 yash
 dilpreet
+hello
 
