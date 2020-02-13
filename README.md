@@ -3,29 +3,42 @@ test
 
 Devashish
 Rashika
+Jagrati K  
+Rashika
 
 
-<<<<<<< HEAD
+some more change
+test
+Rashika
+Priya
+Devashish
+Rashika
+Devashish
+Rashika
 dilpreet
 Mayank
 Anshul
 
+CHELSEA FOOTBALL CLUB 
 
 
+Devashish
+Rashika
 
 
 Anshul
 
 Rashika
+Devashish
+Rashika
 
-
+Mayank
 
 Anshul
 
 Rashika
 dilpreet
 Mayank
-
 dilpreet
 
 Digbijay
@@ -37,18 +50,24 @@ vishal
 
 Ankur
 
+vishal
+
+
+vishal 
+
+
+vishal vishal vishal 
+Ankur
 
 Digbijay
 
 Ankur
-
 
 Digbijay
 
 yash
 PIYUSH
 
-
 Digbijay
 
 dilpreet
@@ -62,4 +81,17 @@ yash
 
 dilpreet
 
+dilpreet
+
+Digbijay
+
+yash
+
+
+Digbijay
+
+
+yash
+
+yash
 dilpreet
