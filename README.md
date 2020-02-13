@@ -1,5 +1,7 @@
 some more change
+
 test
+
 group4   
 Devashish
 Rashika
@@ -9,22 +11,24 @@ Rashika
 
 some more change
 test
-Rashika
+Gaurav
+Anshul
+
 Priya
-Devashish
-Rashika
-
-swetanjali
-as t
-
-some more change
-test
-
-Atu
 
 Devashish
- Group1
+
+Devashish
+
+harshitharshit
+CHELSEA FOOTBALL CLUB 
+
+
+Devashish
 This is group1
+tHIS IS AGAIN GROUP1
+This is again GROUP1111111
+
 
 Rashika
 Jagrati
@@ -41,6 +45,19 @@ Rashika
 
 
 
+ Group-3
+i have made some  changes
+
+
+Devashish
+BORING CLAS
+
+Devashish
+BORING CLASS
+
+
+
+
 Devashish 
 harshit
 Anshul
@@ -48,63 +65,50 @@ Deva
 Ma
 Anshul
 
-Rashika
-dilpreet
+
+
+Devashish
+
+
+
+Anshul
+Devashish
 Mayank
-dilpreet
+Anshul
+
 
 Digbijay
-
-yash
-dilpreet
-
 vishal
-
-Ankur
-
-Digbijay
-vish
-
-
 vishal 
 
 
-vishal vishal vishal 
+
+vishal vishal vishal  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+vishal vishal vishal  
+
+
+
 Ankur
+
 Digbijay
 harshit
 Ankur
-<<<<<<< HEAD
-yash
-PIYUSH
-=======
-
-Digbijay
-
+ HEAD
 yash
 PIYUSH
 
-Sharma
-Atul
+
+
 Digbijay
 hello
 
-dilpreet
-
-
-
 yash
-
-yash
-
-
-dilpreet
-
-dilpreet
+PIYUSH
 
 Digbijay
 
->>>>>>> 76c668be8f58736bfbc0e76416053ac246fa9077
 yash
 
 
@@ -113,20 +117,53 @@ Digbijay
 
 yash
 
-<<<<<<< HEAD
-=======
+yash
+dilpreet
+hello
+
+bunny
+
+group4
+group 4 changes
+group 4 changes again
+
+ Group4
+yash
+ Group-3
+changes
+ master
+
+
+
+change from group 1
+
+DEVASHISH THAKUR
+
+ Group4
+ HEAD
+
 yash
 
-dilpreet
+group 4 changes
+ master
 
->>>>>>> 76c668be8f58736bfbc0e76416053ac246fa9077
+master
+ master
+ boom
+
+ Group4
+ 76c668be8f58736bfbc0e76416053ac246fa9077
 dilpreet
 hello
 Grp 4 changes
 bunny
 ANSHUL
 
-DEVASHISH THAKUR
 
-group 4 changes
+ master
+
+group 2 changes
+group2 
+
+
 
