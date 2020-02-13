@@ -2,17 +2,15 @@ some more change
 
 test
 
-Jagrati K  
-
 
 
 some more change
 test
 Gaurav
 Anshul
-Rashika 
+
 Priya
-harshit chal bhagg! 
+
 Devashish
 
 Devashish
@@ -39,7 +37,7 @@ Devashish
 Mayank
 Anshul
 
-Rashika
+
 Digbijay
 vishal
 vishal 
