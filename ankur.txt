@@ -1,1 +1,9 @@
 Ankur poonia
+Image result for copy paste material blender
+Go to the Material tab, select a material slot 
+and click the specials menu button. Click Copy
+ Material to Others to copy. You can also do 
+this by pressing Ctrl L > Materials with the
+ target objects selected and the object with 
+the source materials active. You can select 
+multiple objects at once with Shift RMB 
