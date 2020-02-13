@@ -1,6 +1,6 @@
 some more change
 test
-
+group4   
 Devashish
 Rashika
 Jagrati K  
@@ -25,6 +25,10 @@ Atu
 Devashish
  Group1
 This is group1
+tHIS IS AGAIN GROUP1
+
+Group-3
+Atul
 
 Rashika
 Jagrati
@@ -33,10 +37,15 @@ Anshul
 Priya
 Deva
 Rashika
+ master
 
 
 
+ Group-3
+i have made some f changes
 
+Devashish
+BORING CLAS
 
 
 Devashish 
@@ -45,6 +54,7 @@ Anshul
 Deva
 Ma
 Anshul
+master
 
 Rashika
 dilpreet
@@ -113,27 +123,18 @@ dilpreet
 dilpreet
 hello
 
+bunny
+ Group-3
+changes
 
 
-
-
-
-
-
-
-
-
-
-
-
+change from group 1
 
 DEVASHISH THAKUR
 
 group 4 changes
 
-<<<<<<< HEAD
 group 2 changes
-=======
 group2 
 
->>>>>>> 3ab94709d8f1801007078669a0c812fe91209498
+master
