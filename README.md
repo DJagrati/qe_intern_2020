@@ -1,10 +1,9 @@
 some more change
 test
-<<<<<<< HEAD
 dilpreet
-=======
-<<<<<<< HEAD
+Mayank
 Anshul
-=======
 Rashika
+dilpreet
+Mayank
 dilpreet
